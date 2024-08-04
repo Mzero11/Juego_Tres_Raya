@@ -1,8 +1,8 @@
-##Diseñar el diagrama de clases de un Juego e implementarlo en un lenguaje de programación
+## Diseñar el diagrama de clases de un Juego e implementarlo en un lenguaje de programación
 
 Nombre: Mateo Silva
 
-#Juego Tres en Raya 
+# Juego Tres en Raya 
 -El juego muestra una marcador donde existe el ganador X o O, las veces que jugaron y si existe un empate.
 Juego
 ![Captura-de-pantalla-2024-08-04-180034.png](https://i.postimg.cc/zBktH94L/Captura-de-pantalla-2024-08-04-180034.png)
@@ -13,7 +13,7 @@ Ganador o
 Empate
 ![Captura-de-pantalla-2024-08-04-180300.png](https://i.postimg.cc/prHhhLgv/Captura-de-pantalla-2024-08-04-180300.png)
 
-##Como Ejecutar el juego 
+## Como Ejecutar el juego 
 
 -Primero descargamos el repositorio 
 
