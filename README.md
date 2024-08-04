@@ -23,6 +23,6 @@ Empate
 
 ![Captura-de-pantalla-2024-08-04-180543.png](https://i.postimg.cc/tJqRGZKs/Captura-de-pantalla-2024-08-04-180543.png)
 
--Y se abrira lo siente
+-Y se abrira lo siguiente
 
 ![Captura-de-pantalla-2024-08-04-180034.png](https://i.postimg.cc/zBktH94L/Captura-de-pantalla-2024-08-04-180034.png)
