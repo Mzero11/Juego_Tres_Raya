@@ -4,13 +4,13 @@ Nombre: Mateo Silva
 
 #Juego Tres en Raya 
 -El juego muestra una marcador donde existe el ganador X o O, las veces que jugaron y si existe un empate.
-
+Juego
 ![Captura-de-pantalla-2024-08-04-180034.png](https://i.postimg.cc/zBktH94L/Captura-de-pantalla-2024-08-04-180034.png)
-
+Ganador x
 ![Captura-de-pantalla-2024-08-04-180109.png](https://i.postimg.cc/sx6Tw5js/Captura-de-pantalla-2024-08-04-180109.png)
-
+Ganador o
 ![Captura-de-pantalla-2024-08-04-180150.png](https://i.postimg.cc/rmY4Hjrn/Captura-de-pantalla-2024-08-04-180150.png)
-
+Empate
 ![Captura-de-pantalla-2024-08-04-180300.png](https://i.postimg.cc/prHhhLgv/Captura-de-pantalla-2024-08-04-180300.png)
 
 ##Como Ejecutar el juego 
