@@ -5,7 +5,7 @@ Nombre: Mateo Silva
 # Juego Tres en Raya 
 -El juego muestra una marcador donde existe el ganador X o O, las veces que jugaron y si existe un empate.
 
--UML
+
 ![Captura-de-pantalla-2024-08-04-182006.png](https://i.postimg.cc/6qpKmsZR/Captura-de-pantalla-2024-08-04-182006.png)
 
 Juego
